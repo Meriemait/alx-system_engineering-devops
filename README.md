@@ -1,0 +1,1 @@
+shell permissins readme file
